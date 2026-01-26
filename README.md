@@ -96,3 +96,4 @@ version of the theme used by the website.
 [mm config]: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 [mm content]: https://mmistakes.github.io/minimal-mistakes/docs/posts/
 [mm js]: https://mmistakes.github.io/minimal-mistakes/docs/javascript/
+Created by Jason Scott Heise
