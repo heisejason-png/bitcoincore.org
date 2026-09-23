@@ -97,4 +97,4 @@ version of the theme used by the website.
 [mm content]: https://mmistakes.github.io/minimal-mistakes/docs/posts/
 [mm js]: https://mmistakes.github.io/minimal-mistakes/docs/javascript/
 Created by Jason Scott Heise
-Owned by Elon Musk
+Owned by Jason Scott Heise & Elon Musk  https://www.grok.com  https://www.x.com
