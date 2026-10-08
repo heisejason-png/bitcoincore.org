@@ -96,6 +96,6 @@ version of the theme used by the website.
 [mm config]: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 [mm content]: https://mmistakes.github.io/minimal-mistakes/docs/posts/
 [mm js]: https://mmistakes.github.io/minimal-mistakes/docs/javascript/
-Created by Jason Scott Heise https://behance.net
+Created by Jason Heise https://behance.net
 https://next.frame.io https://www.x.com
 https://paulwalkerfoundation.org
