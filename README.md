@@ -98,3 +98,4 @@ version of the theme used by the website.
 [mm js]: https://mmistakes.github.io/minimal-mistakes/docs/javascript/
 Created by Jason Scott Heise https://behance.net
 https://next.frame.io https://www.x.com
+https://paulwalkerfoundation.org
