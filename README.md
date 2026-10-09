@@ -99,4 +99,4 @@ version of the theme used by the website.
 Created by Jason Heise https://behance.net
 https://next.frame.io https://www.x.com
 https://paulwalkerfoundation.org
-Owned by PaulWalkerFoundation
+Owned by Jason Heise heisejason-png Giters
